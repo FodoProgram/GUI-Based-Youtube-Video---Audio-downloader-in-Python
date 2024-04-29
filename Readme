@@ -1,0 +1,34 @@
+-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= So Hello Guys This is a Downloader for Youtube Video =--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+                                                               YouTube Video , Audio Downloader Using Tkinter
+This project provides a simple and efficient way to download YouTube videos through a graphical user interface (GUI). By using Python’s Tkinter package and the pytube library, you can easily download videos without the risk of compromising your personal data.
+
+Prerequisites
+Python: Make sure you have Python installed on your system.
+Tkinter: Tkinter is the native Python library for creating GUIs. It comes bundled with Python, so no additional installation is required.
+pytube: pytube is a lightweight, dependency-free Python library for downloading videos from the web. Install it using pip:
+pip install pytube
+
+Usage
+Clone this repository or create your own project.
+Run the Python script (youtube_downloader.py or any other name you choose).
+A GUI window will appear.
+Enter the YouTube video link in the provided text box.
+Click the “Download Video” button to start the download.
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ Capability = 4k ------------ 240p = Download Capability ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖ 
+
+1st = app.py is a main file 🍎
+2nd = install Requirmen.txt File For Better Experience 🍌🍌
+3rd = To Create The virtualEviroment = python3 -m venv (File Name)
+
+
+                                                       ⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️ MORE COMING SOON ⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️⚔️
+
+Expeted Error = First = Set-ExecutionPolicy Unrestricted -Scope Proces ,
+                Second == Script\activate 
+
+(If You Try To Activate The Command You Goona Face Error For That Use This First Command And Then Use Seccond Command)
+
+There is a Multiple Files Like adv_pro.py , audio.py , cmdpro.py , prog.py (These ALL Are The Different Versions But For Latest version  Use app..py (File))
+

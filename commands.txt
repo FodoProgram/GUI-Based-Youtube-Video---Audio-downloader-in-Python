@@ -1,0 +1,4 @@
+For Note The Package List = pip freeze > <PackageName.txt>
+for Seeng The Package List = pip List
+For Activate Virtual Environment = .Scripts\activate
+For Deactivate The Environment = Deactivate
